@@ -7,6 +7,11 @@ class loginForm(forms.Form):
     password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
     password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
     password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
+    password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
+    password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
+    password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
+    password = forms.CharField(label="Şifre",widget=forms.PasswordInput)
+    
     
 
 class registerForm(forms.Form):
